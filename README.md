@@ -1,5 +1,5 @@
 # PSM-Inversion
-PSM Matlab inversion code (DOI: https://zenodo.org/badge/latestdoi/223453115)
+PSM Matlab inversion code (DOI: 10.5281/zenodo.3611405)
 
 PSM Inversion script v1.0 (3 Dec 2019)
 Author: Tommy Chan (tommy.chan@helsinki.fi)
