@@ -17,3 +17,4 @@ Bugs:
 Future updates may include:
 -background measurements
 -inversion of step mode measurements
+-inversion using pre-exisiting kernel functions
