@@ -17,3 +17,6 @@ Bugs:
 Future updates may include:
 -background measurements
 -inversion of step mode measurements
+
+
+DOI: https://zenodo.org/badge/latestdoi/223453115
